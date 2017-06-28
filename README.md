@@ -15,4 +15,6 @@ AKQRCodeView *scanView = [[AKQRCodeView alloc]initWithFrame:CGRectMake(([UIScree
         
     };
 ```
+Demo will show you the details.
+
 
