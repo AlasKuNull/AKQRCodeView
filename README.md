@@ -1,0 +1,2 @@
+# AKQRCodeView
+A simple QRView
